@@ -4,7 +4,7 @@
     <el-card>
       <div slot="header">
         <!-- my-bread 自己封装的组件 -->
-        <my-bread>内容管理</my-bread>
+        <my-bread>内容管理</my-bread> 
       </div>
       <!-- 表单 -->
       <el-form label-width="80px" size="small">
